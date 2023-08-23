@@ -1,0 +1,14 @@
+C:\Users\digip\Desktop\ThreadingAsyncAwait\ThreadingAsyncAwait\bin\Debug\net6.0\ThreadingAsyncAwait.exe
+C:\Users\digip\Desktop\ThreadingAsyncAwait\ThreadingAsyncAwait\bin\Debug\net6.0\ThreadingAsyncAwait.deps.json
+C:\Users\digip\Desktop\ThreadingAsyncAwait\ThreadingAsyncAwait\bin\Debug\net6.0\ThreadingAsyncAwait.runtimeconfig.json
+C:\Users\digip\Desktop\ThreadingAsyncAwait\ThreadingAsyncAwait\bin\Debug\net6.0\ThreadingAsyncAwait.dll
+C:\Users\digip\Desktop\ThreadingAsyncAwait\ThreadingAsyncAwait\bin\Debug\net6.0\ThreadingAsyncAwait.pdb
+C:\Users\digip\Desktop\ThreadingAsyncAwait\ThreadingAsyncAwait\obj\Debug\net6.0\ThreadingAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digip\Desktop\ThreadingAsyncAwait\ThreadingAsyncAwait\obj\Debug\net6.0\ThreadingAsyncAwait.AssemblyInfoInputs.cache
+C:\Users\digip\Desktop\ThreadingAsyncAwait\ThreadingAsyncAwait\obj\Debug\net6.0\ThreadingAsyncAwait.AssemblyInfo.cs
+C:\Users\digip\Desktop\ThreadingAsyncAwait\ThreadingAsyncAwait\obj\Debug\net6.0\ThreadingAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\digip\Desktop\ThreadingAsyncAwait\ThreadingAsyncAwait\obj\Debug\net6.0\ThreadingAsyncAwait.dll
+C:\Users\digip\Desktop\ThreadingAsyncAwait\ThreadingAsyncAwait\obj\Debug\net6.0\refint\ThreadingAsyncAwait.dll
+C:\Users\digip\Desktop\ThreadingAsyncAwait\ThreadingAsyncAwait\obj\Debug\net6.0\ThreadingAsyncAwait.pdb
+C:\Users\digip\Desktop\ThreadingAsyncAwait\ThreadingAsyncAwait\obj\Debug\net6.0\ThreadingAsyncAwait.genruntimeconfig.cache
+C:\Users\digip\Desktop\ThreadingAsyncAwait\ThreadingAsyncAwait\obj\Debug\net6.0\ref\ThreadingAsyncAwait.dll
